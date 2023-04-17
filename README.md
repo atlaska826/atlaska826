@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I will be editing this and getting it polished once I have time. 
+
 <!--
 **atlaska826/atlaska826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
