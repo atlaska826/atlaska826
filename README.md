@@ -1,6 +1,25 @@
+<div>
+  <!--<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" align="right" width="40%">-->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZlOGMxMTZiMGI0YjAwYzhkNTI0MzIxMTYzNGQ0ZmUxMzBjYWU5OSZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif" align="right" width="40%">
+  <div align="left">
+    <h1>Hello there! I'm Atlas! 👋</h1>
+    <h2>👨‍💻 About Me</h2>
+    <h3>Personal Information:</h3>
+    <ul>
+      <li><strong>Pronouns:</strong> he/they</li>
+      <li><strong>Major:</strong> Computer Science (starting fall 2023)</li>
+      <li><strong>Area of Interest:</strong> Social justice/activism</li>
+      <li>In my free time, I love working on various coding projects, playing video games with my friends, and reading.</li>
+    </ul>
+  </div>
+</div>
+
+
+<!--
 <div align="center">
   <h1>Hello there! I'm Atlas! 👋</h1>
 </div>
+
 
 ## 👨‍💻 About Me
 
@@ -10,6 +29,7 @@
   <li><strong>Major:</strong> Computer Science (starting fall 2023)</li>
   <li><strong>Area of Interest:</strong> Social justice/activism</li>
 </ul>
+-->
 
 ### Current Projects:
 <ul>
