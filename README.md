@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGZlOGMxMTZiMGI0YjAwYzhkNTI0MzIxMTYzNGQ0ZmUxMzBjYWU5OSZjdD1n/USV0ym3bVWQJJmNu3N/giphy.gif" align="right" width="40%">
   <div align="left">
     <h1>Hello there! I'm Atlas! 👋</h1>
-    <p>This page might be updated frequently in the beginning since I suddenly will remember something I want to put on it.
+    <q><em>Happiness is when your code runs without errors</em></q>
     <h2>👨‍💻 About Me</h2>
     <h3>Personal Information:</h3>
     <ul>
