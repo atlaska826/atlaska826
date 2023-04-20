@@ -56,6 +56,7 @@
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40">
+      <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" alt="WordPress" width="40" height="40">
     </td>
   </tr>
 </table>
