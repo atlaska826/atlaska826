@@ -49,6 +49,7 @@
       <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40">
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40">
+      <p>I realize that VS Code is not an IDE, but I'm putting it here anyways.</p>
     </td>
   </tr>
   <tr>
