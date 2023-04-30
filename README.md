@@ -18,7 +18,7 @@
 ### Current Projects:
 <ul>
   <li>I'm currently working on coding Minecraft plugins using the Spigot API.</li>
-  <li>I'm currently learning how to use GitHub.</li>
+  <li>I'm currently learning how to use Git.</li>
   <li>I want to learn how to code in SQL, use Maven, and work with command line.</li>
   <li>In the future, I would like to start coding Discord bots with Python.</li>
 </ul>
@@ -26,9 +26,6 @@
 ### Contact Me:
 <a href="https://www.linkedin.com/in/atlas-mallams/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedInd Badge" alt="LinkedIn Badge" width="40" height="40">
-</a>
-<a href="https://stackoverflow.com/users/21668471/atlaska826">
-  <img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" title="Stack Overflow Badge" alt="Stack Overflow Badge" width="40" height="40">
 </a>
 
 ## 🛠 Skillset
