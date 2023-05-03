@@ -50,6 +50,12 @@
     </td>
   </tr>
   <tr>
+    <td><strong>Version Control</strong></td>
+    <td>
+      <a href="https://git-scm.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"></a>
+    </td>
+  </tr>
+  <tr>
     <td><strong>Other/Misc</strong></td>
     <td>
       <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"></a>
