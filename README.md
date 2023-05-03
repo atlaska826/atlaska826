@@ -67,15 +67,15 @@
       <img src="https://streak-stats.demolab.com?user=atlaska826&theme=algolia" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=atlaska826&row=2&column=3&theme=algolia&margin-w=5&margin-h=5" alt="Trophies">
+      <img src="https://github-profile-trophy-atlaska826.vercel.app/?username=atlaska826&row=2&column=3&theme=algolia&margin-w=5&margin-h=5" alt="Trophies">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atlaska826&layout=compact&theme=algolia" alt="Top Languages">
+      <img src="https://github-readme-stats-atlaska826.vercel.app/api/top-langs/?username=atlaska826&layout=compact&theme=algolia" alt="Top Languages">
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=atlaska826&show_icons=true&theme=algolia" alt="Total Stats">
+      <img src="https://github-readme-stats-atlaska826.vercel.app/api?username=atlaska826&show_icons=true&theme=algolia" alt="Total Stats">
     </td>
 </table>
 
