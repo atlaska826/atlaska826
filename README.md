@@ -83,6 +83,7 @@
     <td align="center">
       <img src="https://github-readme-stats-atlaska826.vercel.app/api?username=atlaska826&show_icons=true&theme=algolia" alt="Total Stats">
     </td>
+  </tr>
 </table>
 
 <!--
