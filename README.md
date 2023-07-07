@@ -17,7 +17,7 @@
 
 ### Current Projects:
 <ul>
-  <li>I'm currently working on creating Minecraft Plugin Template repository here on GitHub.</li>
+  <li>I'm currently working on coding various Minecraft plugins.</li>
   <li>I'm currently learning how to use Git.</li>
   <li>I want to learn how to code in SQL, use Maven, and improve my skills with command line.</li>
   <li>In the future, I would like to start coding Discord bots with Python.</li>
