@@ -8,7 +8,7 @@
     <ul>
       <li><strong>Position:</strong> Student</li>
       <li><strong>Pronouns:</strong> he/they</li>
-      <li><strong>Major:</strong> Computer Science (starting fall 2023)</li>
+      <li><strong>Major:</strong> Computer Science</li>
       <li><strong>Area of Interest:</strong> Social justice/activism</li>
       <li>In my free time, I love working on various coding projects, playing video games with my friends, and reading.</li>
     </ul>
