@@ -17,10 +17,10 @@
 
 ### Current Projects:
 <ul>
-  <li>I'm currently working on coding various Minecraft plugins.</li>
-  <li>I'm currently learning how to use Git.</li>
+  <li>I'm currently working on... nothing (College is being difficult).</li>
+  <li>I'm currently learning advanced Python.</li>
   <li>I want to learn how to code in SQL, use Maven, and improve my skills with command line.</li>
-  <li>In the future, I would like to start coding Discord bots with Python.</li>
+  <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain.</li>
 </ul>
 
 ### Contact Me:
@@ -60,7 +60,7 @@
     <td>
       <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"></a>
       <a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"></a>
-      <a href="https://wordpress.com/"><img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" title="WordPress" alt="WordPress" width="40" height="40"></a>
+      <a href="https://wordpress.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"></a>
     </td>
   </tr>
 </table>
