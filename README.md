@@ -60,7 +60,6 @@
     <td>
       <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"></a>
       <a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"></a>
-      <a href="https://wordpress.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"></a>
     </td>
   </tr>
 </table>
