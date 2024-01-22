@@ -72,7 +72,7 @@
       <img src="https://streak-stats.demolab.com?user=atlaska826&theme=algolia" alt="GitHub Stats">
     </td>
     <td align="center">
-      <img src="https://github-profile-trophy-atlaska826.vercel.app/?username=atlaska826&row=2&column=3&theme=algolia&margin-w=5&margin-h=5" alt="Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=atlaska826&row=2&column=3&theme=algolia&margin-w=5&margin-h=5" alt="Trophies">
     </td>
   </tr>
   <tr>
