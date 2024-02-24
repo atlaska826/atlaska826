@@ -9,7 +9,7 @@
       <li><strong>Position:</strong> Student</li>
       <li><strong>Pronouns:</strong> he/they</li>
       <li><strong>Major:</strong> Computer Science</li>
-      <li><strong>Area of Interest:</strong> Social justice/activism</li>
+      <li><strong>Area of Interest:</strong> Astronomy/Astrophysics</li>
       <li>In my free time, I love working on various coding projects, playing video games with my friends, and reading.</li>
     </ul>
   </div>
@@ -18,7 +18,7 @@
 ### Current Projects:
 <ul>
   <li>I'm currently working on... nothing (College is being difficult).</li>
-  <li>I'm currently learning advanced Python.</li>
+  <li>I'm currently learning C++.</li>
   <li>I want to learn how to code in SQL, use Maven, and improve my skills with command line.</li>
   <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain.</li>
 </ul>
