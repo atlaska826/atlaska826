@@ -36,6 +36,7 @@
     <td>
       <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"></a>
       <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></a>
+      <a herf="https://cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"></a>
     </td>
@@ -45,8 +46,9 @@
     <td>
       <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/gilbarbara/logos/blob/1f372be75689d73cae89b6de808149b606b879e1/logos/intellij-idea.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"></a>
       <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/gilbarbara/logos/blob/1f372be75689d73cae89b6de808149b606b879e1/logos/pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"></a>
+            <a herf="https://www.jetbrains.com/clion/"><img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="40" height="40"></a>
       <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"></a>
-      <p>I realize that VS Code is not an IDE, but I'm putting it here anyways.</p>
+      <p>I realize that VS Code is technically not an IDE, but I'm putting it here anyway.</p>
     </td>
   </tr>
   <tr>
