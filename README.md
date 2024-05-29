@@ -19,7 +19,7 @@
 <ul>
   <li>I'm currently working on... nothing (College is being difficult).</li>
   <li>I'm currently learning C++.</li>
-  <li>I want to learn how to code in SQL, use Maven, and improve my skills with command line.</li>
+  <li>I want to improve my coding ability in the languages I currently know.</li>
   <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain.</li>
 </ul>
 
