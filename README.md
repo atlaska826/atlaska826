@@ -17,10 +17,10 @@
 
 ### Current Projects:
 <ul>
-  <li>I'm currently working on... nothing (College is being difficult).</li>
+  <li>I'm currently working on my own website.</li>
   <li>I'm currently learning C++.</li>
   <li>I want to improve my coding ability in the languages I currently know.</li>
-  <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain.</li>
+  <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain, but college is being annoying.</li>
 </ul>
 
 ### Contact Me:
