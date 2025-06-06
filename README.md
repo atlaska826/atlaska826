@@ -22,11 +22,6 @@
   <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain, but college is being annoying.</li>
 </ul>
 
-### Contact Me:
-<a href="https://www.linkedin.com/in/atlas-mallams/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 ## 🛠 Skillset
 
 <table>
