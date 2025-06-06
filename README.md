@@ -7,18 +7,17 @@
     <h3>Personal Information:</h3>
     <ul>
       <li><strong>Position:</strong> Student</li>
-      <li><strong>Pronouns:</strong> he/they</li>
       <li><strong>Major:</strong> Computer Science & Physics</li>
       <li><strong>Area of Interest:</strong> Research</li>
-      <li>In my free time, I love working on various coding projects, playing video games with my friends, and reading.</li>
+      <li><strong>Hobbies:</strong> Working on various coding projects, playing video games with my friends, and reading.</li>
     </ul>
   </div>
 </div>
 
 ### Current Projects:
 <ul>
-  <li>I'm currently working on my own website.</li>
-  <li>I'm currently learning C++.</li>
+  <li>I'm currently working on surviving college.</li>
+  <li>I'm currently learning Open Science research methodology.</li>
   <li>I want to improve my coding ability in the languages I currently know.</li>
   <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain, but college is being annoying.</li>
 </ul>
@@ -65,28 +64,3 @@
     </td>
   </tr>
 </table>
-
-## 📊 My Stats
-
-<table table-layout="fixed">
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=atlaska826&theme=algolia" alt="GitHub Stats">
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=atlaska826&row=2&column=3&theme=algolia&margin-w=5&margin-h=5" alt="Trophies">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-atlaska826.vercel.app/api/top-langs/?username=atlaska826&layout=compact&theme=algolia" alt="Top Languages">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-atlaska826.vercel.app/api?username=atlaska826&show_icons=true&theme=algolia" alt="Total Stats">
-    </td>
-  </tr>
-</table>
-
-<!--
-Comments here
--->
