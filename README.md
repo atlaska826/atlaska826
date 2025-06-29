@@ -66,14 +66,14 @@
   <tr>
     <td>
       <a href="https://github.com/atlaska826/minecraft-plugin-template"><strong>minecraft-plugin-template</strong></a><br>
-      <sub>A template repository for simple Spigot or Paper Minecraft plugins.</sub><br><br>
+      <p>A template repository for simple Spigot or Paper Minecraft plugins.</p>
       <img src="https://img.shields.io/badge/Java-ed8b00">
       <img src="https://img.shields.io/github/license/atlaska826/minecraft-plugin-template?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/minecraft-plugin-template?color=7aa7c7&label=Size">
     </td>
     <td>
       <a href="https://github.com/atlaska826/ElevatorSimulation"><strong>ElevatorSimulation</strong></a><br>
-      <sub>A program that simulates the operation and management of single or multi-elevator systems.</sub><br><br>
+      <p>A program that simulates the operation and management of single or multi-elevator systems.</p>
       <img src="https://img.shields.io/badge/C++-00599c">
       <img src="https://img.shields.io/github/license/atlaska826/ElevatorSimulation?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/ElevatorSimulation?color=7aa7c7&label=Size">
@@ -82,14 +82,14 @@
   <tr>
     <td>
       <a href="https://github.com/atlaska826/StoreSimulation"><strong>StoreSimulation</strong></a><br>
-      <sub>A store simulation that simulates customer arrival, shopping, and checkout.</sub><br><br>
+      <p>A store simulation that simulates customer arrival, shopping, and checkout.</p>
       <img src="https://img.shields.io/badge/C++-00599c">
       <img src="https://img.shields.io/github/license/atlaska826/StoreSimulation?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/StoreSimulation?color=7aa7c7&label=Size">
     </td>
     <td>
       <a href="https://github.com/atlaska826/cs_303_assignments"><strong>cs_303_assignments</strong></a><br>
-      <sub>A repository of the source code for my Data Structures class assignments.</sub><br><br>
+      <p>A repository of the source code for my Data Structures class assignments.</p>
       <img src="https://img.shields.io/badge/C++-00599c">
       <img src="https://img.shields.io/github/license/atlaska826/cs_303_assignments?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/cs_303_assignments?color=7aa7c7&label=Size">
@@ -98,14 +98,14 @@
   <tr>
     <td>
       <a href="https://github.com/atlaska826/cs_101_programs"><strong>cs_101_programs</strong></a><br>
-      <sub>A repo of all of my programs from my CS 101 course.</sub><br><br>
+      <p>A repo of all of my programs from my CS 101 course.</p>
       <img src="https://img.shields.io/badge/Python-34a861">
       <img src="https://img.shields.io/github/license/atlaska826/cs_101_programs?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/cs_101_programs?color=7aa7c7&label=Size">
     </td>
     <td>
       <a href="https://github.com/atlaska826/cs_101L_labs"><strong>cs_101L_labs</strong></a><br>
-      <sub>A repo of all of my labs from my CS 101L course.</sub><br><br>
+      <p>A repo of all of my labs from my CS 101L course.</p>
       <img src="https://img.shields.io/badge/Python-34a861">
       <img src="https://img.shields.io/github/license/atlaska826/cs_101L_labs?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/cs_101L_labs?color=7aa7c7&label=Size">
