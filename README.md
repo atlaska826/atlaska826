@@ -29,9 +29,10 @@
     <td>
       <a href="https://www.java.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"></a>
       <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"></a>
-      <a herf="https://cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"></a>
+      <a href="https://cplusplus.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"></a>
+      <a href="https://www.mathworks.com/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"></a>
     </td>
   </tr>
   <tr>
@@ -39,7 +40,7 @@
     <td>
       <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/gilbarbara/logos/blob/1f372be75689d73cae89b6de808149b606b879e1/logos/intellij-idea.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"></a>
       <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/gilbarbara/logos/blob/1f372be75689d73cae89b6de808149b606b879e1/logos/pycharm.svg" title="PyCharm" alt="PyCharm" width="40" height="40"></a>
-            <a herf="https://www.jetbrains.com/clion/"><img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="40" height="40"></a>
+            <a href="https://www.jetbrains.com/clion/"><img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="CLion" alt="CLion" width="40" height="40"></a>
       <a href="https://code.visualstudio.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"></a>
       <p>I realize that VS Code is technically not an IDE, but I'm putting it here anyway.</p>
     </td>
@@ -55,6 +56,59 @@
     <td>
       <a href="https://www.adobe.com/products/premiere.html"><img src="https://github.com/gilbarbara/logos/blob/main/logos/adobe-premiere.svg" title="Premiere Pro" alt="Premiere Pro" width="40" height="40"></a>
       <a href="https://www.canva.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"></a>
+    </td>
+  </tr>
+</table>
+
+## 📌 Featured Repositories
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/atlaska826/minecraft-plugin-template"><strong>minecraft-plugin-template</strong></a><br>
+      <sub>A template repository for simple Spigot or Paper Minecraft plugins.</sub><br><br>
+      <img src="https://img.shields.io/badge/Java-ed8b00">
+      <img src="https://img.shields.io/github/license/atlaska826/minecraft-plugin-template?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/minecraft-plugin-template?color=7aa7c7&label=Size">
+    </td>
+    <td>
+      <a href="https://github.com/atlaska826/ElevatorSimulation"><strong>ElevatorSimulation</strong></a><br>
+      <sub>A program that simulates the operation and management of single or multi-elevator systems.</sub><br><br>
+      <img src="https://img.shields.io/badge/C++-00599c">
+      <img src="https://img.shields.io/github/license/atlaska826/ElevatorSimulation?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/ElevatorSimulation?color=7aa7c7&label=Size">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/atlaska826/StoreSimulation"><strong>StoreSimulation</strong></a><br>
+      <sub>A store simulation that simulates customer arrival, shopping, and checkout.</sub><br><br>
+      <img src="https://img.shields.io/badge/C++-00599c">
+      <img src="https://img.shields.io/github/license/atlaska826/StoreSimulation?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/StoreSimulation?color=7aa7c7&label=Size">
+    </td>
+    <td>
+      <a href="https://github.com/atlaska826/cs_303_assignments"><strong>cs_303_assignments</strong></a><br>
+      <sub>A repository of the source code for my Data Structures class assignments.</sub><br><br>
+      <img src="https://img.shields.io/badge/C++-00599c">
+      <img src="https://img.shields.io/github/license/atlaska826/cs_303_assignments?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/cs_303_assignments?color=7aa7c7&label=Size">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/atlaska826/cs_101_programs"><strong>cs_101_programs</strong></a><br>
+      <sub>A repo of all of my programs from my CS 101 course.</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-34a861">
+      <img src="https://img.shields.io/github/license/atlaska826/cs_101_programs?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/cs_101_programs?color=7aa7c7&label=Size">
+    </td>
+    <td>
+      <a href="https://github.com/atlaska826/cs_101L_labs"><strong>cs_101L_labs</strong></a><br>
+      <sub>A repo of all of my labs from my CS 101L course.</sub><br><br>
+      <img src="https://img.shields.io/badge/Python-34a861">
+      <img src="https://img.shields.io/github/license/atlaska826/cs_101L_labs?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/cs_101L_labs?color=7aa7c7&label=Size">
     </td>
   </tr>
 </table>
