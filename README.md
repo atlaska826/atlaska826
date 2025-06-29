@@ -110,7 +110,7 @@
       <p>A repo of all of my programs from my CS 101 course.</p>
       <img src="https://img.shields.io/badge/Python-3572a5">
       <img src="https://img.shields.io/github/license/atlaska826/cs_101_programs?color=7f8c8d&label=License">
-      <img src="https://img.shields.io/github/repo-size/atlaska826/cs_101_programs?color=3572A5&label=Size">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/cs_101_programs?color=7aa7c7&label=Size">
     </td>
     <td>
       <a href="https://github.com/atlaska826/cs_101L_labs"><strong>cs_101L_labs</strong></a><br>
