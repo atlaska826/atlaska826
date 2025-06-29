@@ -14,6 +14,7 @@
   </div>
 </div>
 
+<!--
 ### Current Projects:
 <ul>
   <li>I'm currently working on surviving college.</li>
@@ -21,6 +22,7 @@
   <li>I want to improve my coding ability in the languages I currently know.</li>
   <li>In the future, I would like to start any of the numerous project ideas I have stored in my brain, but college is being annoying.</li>
 </ul>
+-->
 
 ## 🛠 Skillset
 
