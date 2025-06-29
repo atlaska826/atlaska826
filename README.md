@@ -14,6 +14,15 @@
   </div>
 </div>
 
+<!--
+# Hello there! I'm Atlas! 👋
+## 👨‍💻 About Me
+### Personal Information:
+* <strong>Position:</strong> Student
+* <strong>Major:</strong> Computer Science & Physics
+* <strong>Area of Interest:</strong> Research
+* <strong>Hobbies:</strong> Working on various coding projects, playing video games with my friends, and reading.-->
+
 ### Current Projects:
 <ul>
   <li>I'm currently working on getting my degree.</li>
