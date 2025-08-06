@@ -42,6 +42,7 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"></a>
       <a href="https://www.mathworks.com/products/matlab.html"><img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"></a>
+      <p>I realize that HTML/CSS are not programming languages, but I'm putting them here anyway.</p>
     </td>
   </tr>
   <tr>
