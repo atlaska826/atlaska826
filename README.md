@@ -26,7 +26,7 @@
 ### Current Projects:
 <ul>
   <li>I'm currently working on getting my degree.</li>
-  <li>I'm currently learning Signal Processing and Python Automation.</li>
+  <li>I'm currently learning a lot of different stuff.</li>
   <li>I want to start utilizing everything I've learned so far in real-world applications.</li>
 </ul>
 
