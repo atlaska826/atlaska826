@@ -7,7 +7,7 @@
     <h3>Personal Information:</h3>
     <ul>
       <li><strong>Position:</strong> Student</li>
-      <li><strong>Major:</strong> Computer Science & Physics</li>
+      <li><strong>Major:</strong> Physics</li>
       <li><strong>Area of Interest:</strong> Research</li>
       <li><strong>Hobbies:</strong> Working on various coding projects, playing video games with my friends, and reading.</li>
     </ul>
