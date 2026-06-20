@@ -82,20 +82,20 @@
       <img src="https://img.shields.io/github/repo-size/atlaska826/phased-array-ml-beamsteering?color=7aa7c7&label=Size">
     </td>
     <td>
-      <a href="https://github.com/atlaska826/minecraft-plugin-template"><strong>minecraft-plugin-template</strong></a><br>
-      <p>A template repository for simple Spigot or Paper Minecraft plugins.</p>
-      <img src="https://img.shields.io/badge/Java-b07219">
-      <img src="https://img.shields.io/github/license/atlaska826/minecraft-plugin-template?color=7f8c8d&label=License">
-      <img src="https://img.shields.io/github/repo-size/atlaska826/minecraft-plugin-template?color=7aa7c7&label=Size">
-    </td>
-  </tr>
-  <tr>
-    <td>
       <a href="https://github.com/atlaska826/ElevatorSimulation"><strong>ElevatorSimulation</strong></a><br>
       <p>A program that simulates the operation and management of single or multi-elevator systems.</p>
       <img src="https://img.shields.io/badge/C++-f34b7d">
       <img src="https://img.shields.io/github/license/atlaska826/ElevatorSimulation?color=7f8c8d&label=License">
       <img src="https://img.shields.io/github/repo-size/atlaska826/ElevatorSimulation?color=7aa7c7&label=Size">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/atlaska826/minecraft-plugin-template"><strong>minecraft-plugin-template</strong></a><br>
+      <p>A template repository for simple Spigot or Paper Minecraft plugins.</p>
+      <img src="https://img.shields.io/badge/Java-b07219">
+      <img src="https://img.shields.io/github/license/atlaska826/minecraft-plugin-template?color=7f8c8d&label=License">
+      <img src="https://img.shields.io/github/repo-size/atlaska826/minecraft-plugin-template?color=7aa7c7&label=Size">
     </td>
     <td>
       <a href="https://github.com/atlaska826/StoreSimulation"><strong>StoreSimulation</strong></a><br>
